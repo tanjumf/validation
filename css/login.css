@@ -1,0 +1,23 @@
+
+/*login-registration section*/
+.bg{
+ 
+  background-repeat: no-repeat;
+   width:100%;
+  height: auto;
+  background-size: cover;
+   padding: 10px;   
+    
+}
+.register-left{
+  background-color: rgb(255, 228, 196,0.6);
+  border: 0px solid #fff;
+  padding: 40px 50px;
+  margin-top: 0;
+  box-shadow: -1px 1px 18px 8px rgba(0,0,0,0.75);
+  font-weight: bold;
+    
+   
+}
+
+
